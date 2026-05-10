@@ -3,7 +3,7 @@
 This folder contains a small romantic landing page designed for Ayaulym.
 
 ## Files
-- `index.html` — the interactive letter with wax seal animation.
+- `ayau.html` — the interactive letter with wax seal animation.
 - `reflections.mp3` — optional audio file to play "The Neighbourhood – Reflections" if you add it.
 
 ## How to use
